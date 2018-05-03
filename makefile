@@ -1,3 +1,3 @@
 all:
-	g++ mochila-alexandre.c -o mochila-alexandre
+	g++ mochila-alexandre.cpp -o mochila-alexandre
 
